@@ -1,0 +1,8 @@
+project_token: b55579f0a4f1ae7e0a47872e
+name: my-weather-predictor
+language: python
+entrypoint: main.py
+resources:
+  limits:
+    cpu: 6
+    memory: 2Gi
